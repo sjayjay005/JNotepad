@@ -1,5 +1,5 @@
 /**
-	Program Disctiption: Java Notepad
+	Program Disctiption: Java Notepad Version 1
 	@Author: S.Ntshwenyese
 */
 
@@ -36,7 +36,7 @@ public class JNotepad extends JFrame implements ActionListener {
 
 		this.setSize(500, 300); // set the initial size of the window
 
-		this.setTitle("Jayjay Notepad version 1.0.0"); // set the title of the window
+		this.setTitle("~Jayjay Notepad~"); // set the title of the window
 
 		setDefaultCloseOperation(EXIT_ON_CLOSE); // set the default close operation (exit when it gets closed)
 
