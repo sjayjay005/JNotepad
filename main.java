@@ -1,4 +1,4 @@
-/*
+/**
 	Program Disctiption: Java Notepad
 	@Author: S.Ntshwenyese
 */
@@ -13,7 +13,7 @@ import java.io;
 
 public class JNotepad extends JFrame implements ActionListener{
 
-	private TextArea = new TextArea("",0,0,TextArea.SCROLLBARS_VERTICAL_ONLY)
+	private TextArea textArea = new TextArea("",0,0,TextArea.SCROLLBARS_VERTICAL_ONLY);
 
 
 
